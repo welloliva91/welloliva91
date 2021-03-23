@@ -1,6 +1,10 @@
-<div align="center">
-# Hi, I'm Well! 
 
+<h1 align="center">
+    Hi, I'm Well! 
+    </h1>
+    
+<div align="center">
+    
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/welloliva91)](https://github.com/welloliva91)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-oliva-53a4b41b3/)](https://www.linkedin.com/in/wellington-oliva-53a4b41b3/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/welloliva91)](https://twitter.com/welloliva91)
