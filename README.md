@@ -3,10 +3,12 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/welloliva91)](https://github.com/welloliva91)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-oliva-53a4b41b3/)](https://www.linkedin.com/in/wellington-oliva-53a4b41b3/)
 
+
 - 🌱 I’m currently learning <strong>English, JavaScript ES6, Angular and ReactJS</strong>.
 - 🤔 I’m looking for creating a projects in Front-end. 
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 📫 Email me at [well.oliva@hotmail.com](mailto:well.oliva@hotmail.com)
+
 
 <table>
     <tr>
